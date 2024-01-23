@@ -1,13 +1,13 @@
-# toms first project
+# University register using the functional programming paradigm 
 
 ## Description
-this is some code i made thats awesome
+This was a university assignment tasked with creating a University register in Java using functional programming principles 
 
 ## Running Instructions
-press run and debug
+debug in choses IDE
 
 ## Author
 Tom Sammon
 
 ## Screenshot
-![Screenshot](tomsammon.jpg)
+![Screenshot](Functional.jpg)
