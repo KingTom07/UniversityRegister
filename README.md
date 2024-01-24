@@ -1,4 +1,4 @@
-# University register using the functional programming paradigm 
+# University register using the functional programming paradigm / Java
 
 ## Description
 This was a university assignment tasked with creating a University register in Java using functional programming principles 
